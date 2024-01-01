@@ -46,11 +46,14 @@ def shapes(a, num_sides):
 # t.write("Happy New Year!", font=("Arial", 36, "bold"))
 
 
-# New Year 2023
+# New Year 2024
 mytext = "Happy New Year To All"
 audio = gTTS(text=mytext, lang="en", slow=False)
-audio.save("shapes.mp3")
-playsound("shapes.mp3")
+try:
+    audio.save("shapes.mp3")
+    playsound("shapes.mp3")
+except:
+    print("Sorry, I can't play the audio")
 t.penup()
 t.goto(100,0)
 t.pendown()
@@ -60,7 +63,7 @@ for i in range(3,5):
 
 # Draw the text
 t.color("white")
-t.write("2023", font=("Arial", 36, "bold"))
+t.write("2024", font=("Arial", 36, "bold"))
 t.forward(100)
 # Go to the bottom right corner
 t.penup()
