@@ -13,8 +13,9 @@
 ## 🖼️ Screenshots
 <kbd>
 
-![Screenshot 2022-12-31 234134](https://user-images.githubusercontent.com/62820550/210152728-665051d7-f79f-4f6c-a68e-9f78712e5f03.png)
-![image](https://user-images.githubusercontent.com/62820550/210152786-4047b522-56e2-4531-848f-123024fcebb7.png)
+![image](https://github.com/Sanjeev-Kumar78/New-Year-2023/assets/62820550/55c01f21-2427-46dc-9250-cb837c9d3681)
+![image](https://github.com/Sanjeev-Kumar78/New-Year-2023/assets/62820550/1cfca47f-b033-4598-9bdc-197ff057d78a)
+
   
 </kbd>
 
