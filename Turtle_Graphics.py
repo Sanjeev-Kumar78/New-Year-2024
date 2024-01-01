@@ -42,7 +42,7 @@ for i in range(300):
         t.penup()
         t.goto(0, -42)
         t.pendown()
-        t.write("2023", align="center", font=("Arial", 36, "bold"))
+        t.write("2024", align="center", font=("Arial", 36, "bold"))
     begin_fill()
     for j in range(2):
         fd(i*1.2)
